@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true,
+        "rootDir": "./src",
+        "outDir": "./release",
+        "resolveJsonModule": true
+    }
+}
